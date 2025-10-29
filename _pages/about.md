@@ -30,4 +30,4 @@ I try to do both syntax and semantics, mainly in Korean but often in comparison 
 I'm especially interested in conditionals, modality, imperatives, negation, coordination, and focus particles like *only* and *even*.
 Right now, I'm writing my thesis on negative imperatives in Korean.
 
-When I’m not doing linguistics, I’m probably listening to music, watching movies, swimming, or playing with my dog Maru.
+When I’m not doing linguistics, I’m probably listening to music, watching movies, swimming, or playing with my dog [Maru](../assets/img/rhino.png).
