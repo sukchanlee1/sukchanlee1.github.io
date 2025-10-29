@@ -11,7 +11,7 @@ nav_order: 1
 - **Honorifying without mentioning: The case of Korean *si***  
     with Youngho Lee  
     November 1, 2025  
-    The 50th Anniversary International Conference of the Linguistics Society of Korea
+    The 50th Anniversary International Conference of the Linguistics Society of Korea  
     Seoul National University, Republic of Korea  
     [[slides]](../assets/pdf/LSK_2025_slides.pdf)
 
