@@ -3,14 +3,16 @@
   <!-- Head -->
   <head>
     {% if page.redirect %}
+      {% assign time = 0 %}
       {% if page.redirect == true %}
         {% assign redirect = site.baseurl | append: '/' %}
+        {% assign time = 3 %}
       {% elsif page.redirect contains '://' %}
         {% assign redirect = page.redirect %}
       {% else %}
         {% assign redirect = page.redirect | relative_url %}
       {% endif %}
-      <meta http-equiv="refresh" content="3; url={{ redirect }}">
+      <meta http-equiv="refresh" content="{{ time }}; url={{ redirect }}">
     {% endif %}
     {% include head.liquid %}
   </head>
