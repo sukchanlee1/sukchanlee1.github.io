@@ -56,7 +56,7 @@ nav_order: 1
 ### 2023
 
 - **Conditioned Case Marking on Nominalized Verbs in Korean Negation Constructions**  
-    November 17-18, 2023
+    November 17-18, 2023  
     The 8th Asian Junior Linguistics Conference (AJL 8)  
     National University of Singapore, Singapore  
     [[slides](../assets/pdf/AJL_2023_slides.pdf)] [[manuscript](../assets/pdf/Lee_2023_focus_licensing_on_nominalized_VPs_in_Korean_LFN_constructions.pdf)]
