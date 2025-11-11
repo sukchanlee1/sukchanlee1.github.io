@@ -6,13 +6,6 @@ nav: true
 nav_order: 1
 ---
 
-### upcoming
-
-- **Illocutionary Force in (and out of) Syntax: Evidence from Korean Negative Imperatives**  
-    March 13-15, 2026  
-    Poster at GLOW in Asia 2026 The 2nd Workshop for Young Scholars  
-    Nanzan University, Japan
-
 ### 2025
 
 - **Honorifying without mentioning: The case of Korean *si***  
