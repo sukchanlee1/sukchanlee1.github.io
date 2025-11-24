@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 2
-redirect: ../assets/pdf/cv.pdf
+redirect: ../assets/pdf/sukchanlee_curriculum_vitae.pdf
 #cv_pdf: example_pdf.pdf # you can also use external links here
 #description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
 #toc:
