@@ -12,14 +12,14 @@ nav_order: 1
     March 13-15, 2026  
     Poster at GLOW in Asia 2026 The 2nd Workshop for Young Scholars  
     Nanzan University, Japan  
-    [[abstract]](../assets/pdf/)
+    [[abstract](../assets/pdf/GLOW_2026_abstract.pdf)] [manuscript]
 
 ### 2025
 
 - **Honorifying without mentioning: The case of Korean *si***  
     with Youngho Lee  
     November 1, 2025  
-    The 50th Anniversary International Conference of the Linguistics Society of Korea  
+    The 50th Anniversary International Conference of the Linguistic Society of Korea  
     Seoul National University, Republic of Korea  
     [[slides](../assets/pdf/LSK_2025_slides.pdf)]
 
@@ -27,7 +27,7 @@ nav_order: 1
     September 10-12, 2025  
     The 12th TripleA workshop for semantic fieldworkers (TripleA 12)  
     Tokyo University of Foreign Studies, Japan  
-    [[handout](../assets/pdf/TripleA_2025_handout.pdf)] [[manuscript](../assets/pdf/Lee_2025_Korean_lato_as_additive_free_choice.pdf)]  
+    [[handout](../assets/pdf/TripleA_2025_handout.pdf)]  [manuscript]  
     August 11-13, 2025  
     2025 SMOG & LSS International Conference on Syntax and Semantics  
     Gyeongkuk National University, Republic of Korea  
@@ -36,7 +36,7 @@ nav_order: 1
 - **Against a Distributed Morphology Analysis of Korean Negative Imperatives**  
     August 14-16, 2025  
     The 27th Seoul International Conference on Generative Grammar (SICOGG 27)  
-    Sogang University, Seoul National University  
+    Sogang University, Republic of Korea  
     [[slides](../assets/pdf/SICOGG_2025_slides.pdf)]  
     May 31, 2025  
     2025 Spring Conference of the Korean Generative Grammar Circle  

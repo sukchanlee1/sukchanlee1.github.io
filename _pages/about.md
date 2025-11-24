@@ -28,6 +28,6 @@ latest_posts:
 I'm a master's student in the [Department of Linguistics](https://linguist.snu.ac.kr/) at Seoul National University.
 I try to do both syntax and semantics, mainly in Korean but often in comparison with other languages.
 I'm especially interested in conditionals, modality, imperatives, negation, coordination, and focus particles like *only* and *even*.
-Right now, I'm writing my thesis on negative imperatives in Korean.
+Right now, I'm writing my thesis on Korean negative imperatives.
 
 When I’m not doing linguistics, I’m probably listening to music, watching movies, swimming, or playing with my dog [Maru]({{ site.baseurl | append: '/maru/' }}).
