@@ -6,7 +6,7 @@ nav: true
 nav_order: 1
 ---
 
-### Upcoming
+### upcoming
 
 - **Illocutionary Force in (and out of) Syntax: Evidence from Korean Negative Imperatives**  
     March 13-15, 2026  
@@ -27,7 +27,7 @@ nav_order: 1
     September 10-12, 2025  
     The 12th TripleA workshop for semantic fieldworkers (TripleA 12)  
     Tokyo University of Foreign Studies, Japan  
-    [[handout](../assets/pdf/TripleA_2025_handout.pdf)]  [manuscript]  
+    [[handout](../assets/pdf/TripleA_2025_handout.pdf)] [manuscript]  
     August 11-13, 2025  
     2025 SMOG & LSS International Conference on Syntax and Semantics  
     Gyeongkuk National University, Republic of Korea  
