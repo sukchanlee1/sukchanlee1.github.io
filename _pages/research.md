@@ -6,6 +6,14 @@ nav: true
 nav_order: 1
 ---
 
+### Upcoming
+
+- **Illocutionary Force in (and out of) Syntax: Evidence from Korean Negative Imperatives**  
+    March 13-15, 2026  
+    Poster at GLOW in Asia 2026 The 2nd Workshop for Young Scholars  
+    Nanzan University, Japan  
+    [[abstract]](../assets/pdf/)
+
 ### 2025
 
 - **Honorifying without mentioning: The case of Korean *si***  
@@ -61,7 +69,7 @@ nav_order: 1
     National University of Singapore, Singapore  
     [[slides](../assets/pdf/AJL_2023_slides.pdf)] [[manuscript](../assets/pdf/Lee_2023_focus_licensing_on_nominalized_VPs_in_Korean_LFN_constructions.pdf)]
 
-### Squibs
+### squibs
 
 - **From Negative Polarity to Free Choice: Shifting Interpretations of Korean Null Arguments**  
     Squib written for *Studies in Syntax 2: Null Arguments* (Instructor: Chorong Kang)  
