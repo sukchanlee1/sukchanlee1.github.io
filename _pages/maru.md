@@ -1,12 +1,10 @@
 ---
 layout: about
-title: maru
+title: Maru
 permalink: /maru/
-subtitle:
 
 profile:
-  align: right
+  align: left
   image: maru.jpeg
   image_circular: false
-  more_info:
 ---
