@@ -12,7 +12,7 @@ nav_order: 1
     March 13-15, 2026  
     Poster at GLOW in Asia 2026 The 2nd Workshop for Young Scholars  
     Nanzan University, Japan  
-    [[abstract](../assets/pdf/GLOW_2026_abstract.pdf)] [manuscript]
+    [[abstract](../assets/pdf/GLOW_2026_abstract.pdf)] [[manuscript](../assets/pdf/Lee_2025_on_Korean_negative_imperatives.pdf)]
 
 ### 2025
 
@@ -27,7 +27,7 @@ nav_order: 1
     September 10-12, 2025  
     The 12th TripleA workshop for semantic fieldworkers (TripleA 12)  
     Tokyo University of Foreign Studies, Japan  
-    [[handout](../assets/pdf/TripleA_2025_handout.pdf)] [manuscript]  
+    [[handout](../assets/pdf/TripleA_2025_handout.pdf)] [[manuscript](../assets/pdf/Lee_2025_Korean_lato_as_additive_free_choice.pdf)]  
     August 11-13, 2025  
     2025 SMOG & LSS International Conference on Syntax and Semantics  
     Gyeongkuk National University, Republic of Korea  
