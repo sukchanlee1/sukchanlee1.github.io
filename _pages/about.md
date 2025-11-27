@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I'm a master's student in the [Department of Linguistics](https://linguist.snu.ac.kr/) at Seoul National University.
+I'm a master's student in the [Department of Linguistics](https://linguist.snu.ac.kr/en/) at Seoul National University.
 I try to do both syntax and semantics, mainly in Korean but often in comparison with other languages.
 I'm especially interested in conditionals, modality, imperatives, negation, coordination, and focus particles like *only* and *even*.
 Right now, I'm writing my thesis on Korean negative imperatives.
