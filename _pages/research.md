@@ -6,13 +6,13 @@ nav: true
 nav_order: 1
 ---
 
-### upcoming
+### 2026
 
 - **Illocutionary Force in (and out of) Syntax: Evidence from Korean Negative Imperatives**  
     March 13-15, 2026  
-    Poster at GLOW in Asia 2026 The 2nd Workshop for Young Scholars  
+    Poster presented at GLOW in Asia 2026 The 2nd Workshop for Young Scholars  
     Nanzan University, Japan  
-    [[abstract](../assets/pdf/GLOW_2026_abstract.pdf)] [[manuscript](../assets/pdf/Lee_2025_on_Korean_negative_imperatives.pdf)]
+    [[poster](../assets/pdf/GLOW_in_Asia_Young_Scholars_2026_poster.pdf)] [[manuscript](../assets/pdf/Lee_2025_on_Korean_negative_imperatives.pdf)]
 
 ### 2025
 
@@ -57,7 +57,7 @@ nav_order: 1
 
 - **Prosodic Prominence and Intervention Effects: An Experimental Study**  
     July 18, 2024  
-    Poster at the 6th Crete Summer School of Linguistics  
+    Poster presented at the 6th Crete Summer School of Linguistics  
     University of Crete, Greece  
     [[poster](../assets/pdf/CreteLing_2024_poster.pdf)] [[manuscript](../assets/pdf/Lee_2024_prosodic_prominence_and_intervention_effects_an_experimental_study.pdf)]
 
