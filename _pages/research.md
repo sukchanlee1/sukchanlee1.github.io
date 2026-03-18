@@ -45,6 +45,7 @@ nav_order: 1
 
 ### 2024
 
+{% comment %}
 - **Anatomy of an Exceptive+Modal Construction**  
     January 10-11, 2025  
     The 1st SNU Linguistics Symposium (SLS 1)  
@@ -55,6 +56,7 @@ nav_order: 1
     Seoul National University, Republic of Korea  
     [[slides](../assets/pdf/SWELL_2024_slides.pdf)]
 
+{% endcomment %}
 - **Prosodic Prominence and Intervention Effects: An Experimental Study**  
     July 18, 2024  
     Poster presented at the 6th Crete Summer School of Linguistics  
@@ -68,14 +70,4 @@ nav_order: 1
     The 8th Asian Junior Linguistics Conference (AJL 8)  
     National University of Singapore, Singapore  
     [[slides](../assets/pdf/AJL_2023_slides.pdf)] [[manuscript](../assets/pdf/Lee_2023_focus_licensing_on_nominalized_VPs_in_Korean_LFN_constructions.pdf)]
-
-### squibs
-
-- **From Negative Polarity to Free Choice: Shifting Interpretations of Korean Null Arguments**  
-    Squib written for *Studies in Syntax 2: Null Arguments* (Instructor: Chorong Kang)  
-    [[manuscript](../assets/pdf/Lee_2025_from_negative_polarity_to_free_choice.pdf)]
-
-- **Conditional Reading of Logical Connectives**  
-    Squib written for *Seminar in Linguistic Theories: Alternatives and Strengthening* (Instructor: WooJin Chung)  
-    [[manuscript](../assets/pdf/Lee_2024_conditional_reading_of_logical_connectives.pdf)]
     
