@@ -8,6 +8,13 @@ nav_order: 1
 
 ### 2026
 
+- **Korean *si* is uniformly subject honorification**
+    with Youngho Lee
+    July 1, 2026
+    The 19th Workshop on Altaic Formal Linguistics
+    The Leibniz-Centre General Linguistics (ZAS), Germany
+    [[slides](../assets/pdf/WAFL_2026_slides.pdf)]
+
 - **Illocutionary Force in (and out of) Syntax: Evidence from Korean Negative Imperatives**  
     March 13-15, 2026  
     Poster presented at GLOW in Asia 2026 The 2nd Workshop for Young Scholars  
